@@ -1,0 +1,19 @@
+{
+  "name": "circum-icons-inferno",
+  "description": "Circum icons pack for Inferno",
+  "version": "3.0.0",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "circumicons"
+  ],
+  "author": "Coachonko",
+  "repository": "https://github.com/Coachonko/circum-icons-inferno",
+  "license": "NCSA",
+  "peerDependencies": {
+    "inferno": "^8.2.2"
+  }
+}
